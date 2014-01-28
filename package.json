@@ -23,7 +23,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "htmlclean": "~2.0.0"
+    "htmlclean": "git://github.com/codegoat/htmlclean"
   },
   "peerDependencies": {
     "grunt": "~0.4.1"
